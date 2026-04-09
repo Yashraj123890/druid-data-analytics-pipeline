@@ -34,9 +34,9 @@ This project demonstrates an end-to-end data analytics pipeline using Apache Dru
 - Payment Method Distribution
 
 ## 📸 Screenshots
-<img width="1872" height="1051" alt="Screenshot 2026-03-27 215712" src="https://github.com/user-attachments/assets/6453fc23-f98e-4829-96dc-fd1d959d4c51" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-09 150619" src="https://github.com/user-attachments/assets/44789942-b9a1-4b4d-8e0b-6c462d43a6bb" />
 <img width="1873" height="1059" alt="Screenshot 2026-03-27 215722" src="https://github.com/user-attachments/assets/3dc77799-3e8d-41c9-bb0d-0645f299a36c" />
-<img width="1873" height="1043" alt="Screenshot 2026-03-27 215737" src="https://github.com/user-attachments/assets/22f4cbc1-c640-48b9-ae0d-9f9a45070916" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-09 150543" src="https://github.com/user-attachments/assets/88e5bdb8-84b1-4652-ae9c-83cdb36ea179" />
 <img width="1872" height="1055" alt="Screenshot 2026-03-27 215747" src="https://github.com/user-attachments/assets/634b4e22-f9b1-4c46-883f-46372e09e1a3" />
 <img width="1505" height="702" alt="Screenshot 2026-03-27 215814" src="https://github.com/user-attachments/assets/702281e4-3dc1-454b-a839-0c3aff2f3426" />
 
